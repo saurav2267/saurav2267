@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurav Nambiar
 - 👀 I’m interested in Learning new things and taking up challenges
-- 🌱 I’m currently pursuing my BE in Information Science and Engineering
+- 🌱 I’m completed my BE in Information Science and Engineering
 - 📫 How to reach me sahilsaurav21@gmail.com
 
 <!---
