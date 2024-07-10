@@ -1,9 +1,36 @@
-- 👋 Hi, I’m Saurav Nambiar
-- 👀 I’m interested in Learning new things and taking up challenges
-- 🌱 I’m completed my BE in Information Science and Engineering
-- 📫 How to reach me sahilsaurav21@gmail.com
+# Saurav Nambiar
 
-<!---
-saurav2267/saurav2267 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 Hello! Welcome to my GitHub profile.
+
+I am Saurav Nambiar, a passionate technology enthusiast transitioning from a successful career as a Business Analyst to the exciting world of Artificial Intelligence. My background in Information Science & Engineering, combined with my analytical skills, drives my interest in AI.
+
+## 👨‍💻 About Me
+
+- 🎓 **Education:** BE in Information Science & Engineering from India.
+- 💼 **Professional Background:** Former Business Analyst with extensive experience in various tools and technologies.
+- 🤖 **Current Focus:** Exploring and advancing my knowledge in Artificial Intelligence.
+
+## 🛠️ Languages and Tools
+
+- **Programming Languages:** Python, C, C++, Java
+- **Web Development:** HTML, CSS
+- **Data Analysis and BI Tools:** DAX, MySQL, Power BI, Anaplan, Datamart, Advanced Excel
+- **Software and IDEs:** Pycharm, Jupyter, Power Automate
+- **Version Control:** GitHub
+
+## 📈 My Skills
+
+- Data Analysis and Visualization
+- Business Process Improvement
+- Problem-Solving and Critical Thinking
+- Project Management
+- Collaboration and Communication
+
+## 📫 Contact Me
+
+- **Email:** sahilsaurav21@gmail.com
+- **LinkedIn:** [Saurav Nambiar](https://www.linkedin.com/in/saurav-nambiar/)
+
+Feel free to reach out for collaboration, discussion, or any exciting opportunities. I'm always open to connecting with like-minded professionals!
+
+Thank you for visiting my profile! Have a great day!
