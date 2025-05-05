@@ -28,7 +28,7 @@ I am Saurav Nambiar, a passionate technology enthusiast transitioning from a suc
 
 ## 📫 Contact Me
 
-- **Email:** sahilsaurav21@gmail.com
+- **Email:** sauravnambiar4@gmail.com
 - **LinkedIn:** [Saurav Nambiar](https://www.linkedin.com/in/saurav-nambiar/)
 
 Feel free to reach out for collaboration, discussion, or any exciting opportunities. I'm always open to connecting with like-minded professionals!
