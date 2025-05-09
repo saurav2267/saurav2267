@@ -6,6 +6,7 @@ I am Saurav Nambiar, a passionate technology enthusiast transitioning from a suc
 
 ## 👨‍💻 About Me
 
+- 🎓 **Education:** Currently pursuing **Master's in Artificail Intelligence**, Dublin, Ireland.
 - 🎓 **Education:** BE in Information Science & Engineering from India.
 - 💼 **Professional Background:** Former Business Analyst with extensive experience in various tools and technologies.
 - 🤖 **Current Focus:** Exploring and advancing my knowledge in Artificial Intelligence.
